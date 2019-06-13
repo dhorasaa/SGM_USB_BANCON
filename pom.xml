@@ -5,7 +5,7 @@
 	<groupId>banco-logic</groupId>
 	<artifactId>banco-logic</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-    <packagin>jar</packagin>
+    <packaging>jar</packaging>
 	<dependencies>
 	
 		<!--Bean Validator-->
